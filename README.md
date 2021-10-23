@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Liliana
-- 🌱 I’m currently learning Javascript and HTML, CSS
+- 🌱 I’m currently a fulsstack student
 - 📫 How to reach me: 
       //email = liliana.martinezgo@gmail.com
 
