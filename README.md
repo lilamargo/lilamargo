@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Liliana
-- 🌱 I’m currently a fulsstack student
+- 🌱 I’m currently a fullstack student
 - 📫 How to reach me: 
       //email = liliana.martinezgo@gmail.com
 
