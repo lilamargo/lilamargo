@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Liliana</h1>
-<h3 align="center">A passionate fullstack developer from Mexico</h3>
+<h3 align="center">A passionate FullStack Web Developer Jr from México</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilamargo&label=Profile%20views&color=0e75b6&style=flat" alt="lilamargo" /> </p>
 
-- 💬 Ask me about **React, Javascript...**
+- 💬 Ask me about **React, Javascript, philosophy, gardening 🌱...**
 
 - 📫 How to reach me **liliana.martinezgo@gmail.com**
 
