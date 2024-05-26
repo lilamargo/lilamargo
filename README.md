@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilamargo&label=Profile%20views&color=0e75b6&style=flat" alt="lilamargo" /> </p>
 
-- 💬 Ask me about **React, Javascript, philosophy, gardening 🌱...**
+- 💬 Ask me about **Python, Javascript, philosophy, gardening 🌱...**
 
 - 📫 How to reach me **liliana.martinezgo@gmail.com**
 
